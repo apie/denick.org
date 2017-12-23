@@ -1,0 +1,64 @@
+==================================================================
+https://keybase.io/denick
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.denick.org
+  * I am denick (https://keybase.io/denick) on keybase.
+  * I have a public key with fingerprint 9689 E645 F568 CF10 E790  3A6E 22B2 D359 F16F 24AB
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01201c15c32ac5b61c544cf1c0ea872b5f5f8d5aa3166e0dd31eaef99d29f94de34b0a",
+            "fingerprint": "9689e645f568cf10e7903a6e22b2d359f16f24ab",
+            "host": "keybase.io",
+            "key_id": "22b2d359f16f24ab",
+            "kid": "0111469a11776b0fc13b212b2091e01dce162b51f197d5760668f4155107569a147a0a",
+            "uid": "b61ef2b0d55eeea4abaca017720dea19",
+            "username": "denick"
+        },
+        "service": {
+            "hostname": "www.denick.org",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1477743689,
+    "expire_in": 157680000,
+    "prev": "54d1119ab7935bcfb10bccf11c0734d98d61884c41696fa99e06f06bf6c34f94",
+    "seqno": 20,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.58
+Comment: https://keybase.io/crypto
+
+yMFNAnicbZK/axRBFMfXHxE9iCSSXhgswzFvd37sXHrR0k4LOebHm8t4ye65u5cY
+wjXWiiIWdgpaaWdpIShaWSiIpXZWFuJ/4Nsz6dxm2Jnv9zPf9958WD2VDdbZ6683
+/tSXXp349O7JPLu+8fjqIXN1OGCjQzbF5YI7AdtuPE2BjRiHnIMH6YvceukUeCmE
+j+A52lLnTkYZyyCtLUAp5CEUgBajMSE30YiAhXDcsk0WUzXBZtakqiOsUaVBJcit
+SqJx1IYXVmGeuzwU0kRQMRfWkXG7bnsHhXO2xWGqaY9+xst4/9Ef5wYQylgArZXj
+0UPhciA1N4AcgkdQlB4iGB2kVlypMgqQEriWvU9ou8w9X+KocIy540FKRLR0k/WW
+EzvnAS2YXthiU9ldJHXAKvkpW2wy2ttLHvu29nUcne/v7w//aYZ1MyHvrKm72tc7
+dLbddbN21Hu7g9lSjG58hBm7VAXqIzn2sGlTXbERkNJ3qedSZq1FQa3dZHhnlhoc
+p15B5ZWcvv4e3COkFIHaY6zTppDORwfceRoDTVUXIpgyKChL4QUoo6I1BrmKXLmo
+fCFoqqwv7HZVs1FO0M5OiNmmSWW7eYNs8f7y6Wx9kJ1ZOdm/r2xwbu341X1+kT29
+9WAju/fy/oWb/KFb+ZXWts5//JE9u4urX649f3t2Mf/25vvW70e7F39e+QvzWNQN
+=IrsT
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/denick
+
+==================================================================
+
