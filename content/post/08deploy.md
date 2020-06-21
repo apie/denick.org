@@ -6,6 +6,11 @@ draft = false
 +++
 
 Inspired by [this post](http://ryanflorence.com/deploying-websites-with-a-tiny-git-hook/) by Ryan Florence, I set out to implement his idea (deploy using a git hook) for this blog.
+<!--more-->
+
+![launch](/content/post/08deploy/launch.jpg)
+
+([photo source](https://commons.wikimedia.org/wiki/File:STS-130_exhaust_cloud_engulfs_Launch_Pad_39A.jpg))
 
 I used to update this blog very little, and did that by logging in to the server, make the change, run `hugo` and then logout. For this year I have committed myself to write some more posts. Making deploying a bit easier should help a bit in achieving that goal.
 
