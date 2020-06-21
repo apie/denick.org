@@ -25,3 +25,4 @@ The user is however forced to the https pages by this rewrite rule in `.htaccess
 
 That works :)
 
+UPDATE (2020-06-21): I forced the baseurl to https since the agnostic url didnt work properly for the 'read more' link in the RSS feed. The website still works over plain http, but the stylesheets and all the hyperlinks are https. Should not be a problem.
