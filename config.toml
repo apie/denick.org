@@ -1,0 +1,10 @@
+baseurl = "//www.denick.org"
+languageCode = "en-us"
+title = "Denick.org"
+theme = "liquorice"
+cacheDir = "/srv/home/denickorg/tmp"
+[params]
+  description = "my blog"
+  subtitle = "Welcome to my blog"
+  author = "Denick Murray"
+  authorname = "Denick Murray"
