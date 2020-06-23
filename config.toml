@@ -9,3 +9,6 @@ googleAnalytics = "denick"
   subtitle = "Welcome to my blog"
   author = "Denick Murray"
   authorname = "Denick Murray"
+[[menu.main]]
+  name = "about"
+  url = "/about/"
