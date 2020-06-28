@@ -1,7 +1,10 @@
 <article>
     <header>
         <h2><a href="{{ .Permalink }}">{{ .Title }} {{ if .Draft }} (draft) {{end}}</a></h2>
-        <time class="li-article-date">{{ .Date.Format "Monday, January 2, 2006" }}</time>
+        <time class="li-article-date">{{ .Date.Format "Monday, January 2, 2006" }}</time> - 
+		<span class="li-article-taxonomies">
+			Reading time: {{ .ReadingTime }} mins.
+		</span>
     </header>
     <section class="li-article-section">
         {{ .Summary }}

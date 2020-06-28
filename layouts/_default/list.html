@@ -10,6 +10,9 @@
                         <li>
                             <time class="li-article-date">{{ .Date.Format "January, 2, 2006" }}</time>
                             <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+                            <span class="li-article-taxonomies">
+                                Reading time: {{ .ReadingTime }} mins.
+                            </span>
                         </li>
                     {{ end }}
                 </ul>
