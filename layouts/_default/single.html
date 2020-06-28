@@ -27,7 +27,10 @@
                             {{ end }}
                         </span>
                         {{ if or $categories $tags }} - {{ end }}
-                        <time class="li-article-date">Posted on {{ .Date.Format "Monday, January 2, 2006" }}</time>
+                        <time class="li-article-date">Posted on {{ .Date.Format "Monday, January 2, 2006" }}</time> -
+                        <span class="li-article-taxonomies">
+							Reading time: {{ .ReadingTime }} mins.
+						</span>
                     </header>
                     <section>
                         {{ .Content }}
