@@ -7,9 +7,9 @@ draft = false
 
 I needed to analyze some logfiles which were produced by [Gunicorn](https://gunicorn.org) (a Python webserver).
 <!--more-->
-To enable the access-log, use the following option with Gunicorn:
+To enable the access-log, use the following option with Gunicorn (to log to STDOUT):
 
-	gunicorn --access-log
+	gunicorn --access-logfile -
 
 The default log format is:
 
