@@ -3,7 +3,7 @@ date = "2014-02-01"
 title = "About this web site"
 +++
 
-This is my personal blog. I will post updates here about anything. I`m a
+This is my personal blog. I will post updates here about anything. I'm a
 27 year old guy from the Netherlands. My interests are music
 ([last.fm](http://www.last.fm/user/denick)), computers and engineering.
 
