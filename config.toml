@@ -7,8 +7,8 @@ googleAnalytics = "denick"
 [params]
   description = "my blog"
   subtitle = "Welcome to my blog"
-  author = "Denick Murray"
-  authorname = "Denick Murray"
+  author = "Denick"
+  authorname = "Denick"
 [[menu.main]]
   name = "about"
   url = "/about/"
