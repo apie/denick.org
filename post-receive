@@ -1,0 +1,5 @@
+#!/bin/sh
+#put in .git/hooks/ on the server
+cd ..
+GIT_DIR='.git'
+umask 002 && git reset --hard && ./hugo
