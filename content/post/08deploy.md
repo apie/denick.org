@@ -45,7 +45,7 @@ public/
 themes/
 hugo
 ```
-Then, update the hugo versions on both ends ([just download the binary on their github](https://github.com/gohugoio/hugo/releases)). Now i had to update the theme I use ([liquorice](https://github.com/eliasson/liquorice/)]). I had to remove my folder `themes/` as it contained a lot of crap. Then add the theme back again:
+Then, update the hugo versions on both ends ([just download the binary on their github](https://github.com/gohugoio/hugo/releases)). Now i had to update the theme I use ([liquorice](https://github.com/eliasson/liquorice/)). I had to remove my folder `themes/` as it contained a lot of crap. Then add the theme back again:
 ```sh
 $ git submodule add git@github.com:eliasson/liquorice.git
 ```
