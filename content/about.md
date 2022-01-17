@@ -12,7 +12,7 @@ This is my personal blog. I will post updates here about anything. I'm a
 If you would like to contact me personally, you can send me an e-mail.
 The address is associated with this domain name :) It is also possible
 to send me encrypted e-mail. Here is a link to [my
-gpg-key](../pubkey.txt).
+gpg-key](http://pgp.surfnet.nl:11371/pks/lookup?op=get&search=0x22B2D359F16F24AB).
 
 
 Some other blogs worth checking out:
