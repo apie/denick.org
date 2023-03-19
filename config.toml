@@ -2,7 +2,7 @@ baseurl = "https://www.denick.org"
 languageCode = "en-us"
 title = "Denick.org"
 theme = "liquorice"
-cacheDir = "/srv/home/denickorg/tmp"
+cacheDir = "/tmp"
 googleAnalytics = "denick"
 [params]
   description = "my blog"
