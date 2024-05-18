@@ -1,7 +1,7 @@
 +++
 title = "Debian powered soap dispenser"
 date = "2014-10-05T22:30:00"
-category = "blogposts"
+categories = ['blogposts']
 +++
 
 Discovered an interesting soap dispenser at work:

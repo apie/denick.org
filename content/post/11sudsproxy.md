@@ -1,7 +1,8 @@
 +++
 title = "How to use a SOCKS proxy with Suds"
 date = "2024-03-18T19:00:00+02:00"
-category = "blogposts"
+categories = ['blogposts']
+tags = ['python', 'howto']
 draft = false
 +++
 

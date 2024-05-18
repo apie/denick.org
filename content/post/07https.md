@@ -1,7 +1,7 @@
 +++
 title = "Configuring HUGO for https"
 date = "2016-10-26T20:00:00+02:00"
-category = "blogposts"
+categories = ['blogposts']
 +++
 
 This website is now available via https. Here is how I configured [Hugo](https://gohugo.io) to be compatible.

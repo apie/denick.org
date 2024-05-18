@@ -2,7 +2,7 @@
 title = "[updated] Replacing page2rss"
 date = "2016-05-29T14:30:00+02:00"
 draft = false
-category = "blogposts"
+categories = ['blogposts']
 +++
 
 So I am using [The Old Reader](http://www.theoldreader.com) to keep track of my RSS feeds.

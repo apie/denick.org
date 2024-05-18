@@ -1,7 +1,7 @@
 +++
 title = "New website"
 date = "2014-05-07T22:47:00"
-category = "blogposts"
+categories = ['blogposts']
 +++
 
 So, here it is! My new website!

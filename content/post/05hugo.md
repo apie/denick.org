@@ -1,5 +1,5 @@
 +++
-Categories = []
+categories = ['blogposts']
 Description = ""
 Tags = []
 date = "2015-05-25T18:39:17+02:00"

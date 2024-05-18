@@ -1,7 +1,8 @@
 +++
 title = "Things I (re)learned while programming a RSS newsfeed website"
 date = "2023-12-31T16:00:00+02:00"
-category = "blogposts"
+categories = ['blogposts']
+tags = ['rss', 'javascript', 'projects']
 draft = false
 +++
 

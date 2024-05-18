@@ -1,7 +1,7 @@
 +++
 title = "Spring in Amsterdam!"
 date = "2014-02-25"
-category = "blogposts"
+categories = ['blogposts']
 +++
 
 Already the second day of really nice and warm weather here in Amsterdam! Tomorrow I will take some pictures of all the flowers if I have got the time.

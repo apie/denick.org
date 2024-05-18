@@ -1,7 +1,7 @@
 +++
 title = "Why translating software is meaningful"
 date = "2014-09-06T18:25:00"
-category = "blogposts"
+categories = ['blogposts']
 +++
 
 The other day I had a discussion with my coworker. I told her that I had

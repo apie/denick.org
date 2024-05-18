@@ -1,7 +1,8 @@
 +++
 title = "Deploying my website using a git hook"
 date = "2020-06-21T15:00:00+02:00"
-category = "blogposts"
+categories = ['blogposts']
+tags = ['git']
 draft = false
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = "Parsing a Gunicorn access log in GoAccess"
 date = "2021-03-23T15:00:00+02:00"
-category = "blogposts"
+categories = ['blogposts']
 draft = false
 +++
 
